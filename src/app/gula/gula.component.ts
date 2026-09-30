@@ -1,3 +1,15 @@
+/*
+* File: gula.component.ts
+* Author: Tóth Gergely
+* Copyright: 2026, Tóth Gergely
+* Group: Szoft II/N
+* Date: 2026-09-30
+* Github: https://github.com/togethHUN/
+* Licenc: MIT
+*/
+
+
+
 import { Component, inject } from '@angular/core';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 
